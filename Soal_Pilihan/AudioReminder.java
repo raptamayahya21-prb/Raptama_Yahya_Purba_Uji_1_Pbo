@@ -1,0 +1,3 @@
+interface AudioReminder {
+    void playAdhan();
+}
